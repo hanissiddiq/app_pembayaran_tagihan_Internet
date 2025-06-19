@@ -19,6 +19,7 @@ Aplikasi Pembayaran Tagihan Internet
 - Buka terminal di dalam aplikasi, ketikan ***php artisan serve***.
 - Jalankan aplikasi dengan ketik ***http://127.0.0.1:8000.***
 - Login admin dengan username : ***```admin@mail.com```***, password : ***```secret```***.
+- Login penagih dengan username : ***```penagih@mail.com```***, password : ***```mantap```***.
 
 ***Fitur Aplikasi :***
 - Login Multi User
