@@ -21,12 +21,12 @@ Aplikasi Pembayaran Tagihan Internet
 - Login admin dengan username : ***```admin@mail.com```***, password : ***```secret```***.
 
 ***Fitur Aplikasi :***
--Login Multi User
--Dashboard
--Data Klien
--Paket Internet
--Data Admin
--Data Tagihan
--Rekapitulasi
--Logout
-dan lainnya.
+- Login Multi User
+- Dashboard
+- Data Klien
+- Paket Internet
+- Data Admin
+- Data Tagihan
+- Rekapitulasi
+- Logout
+
